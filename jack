@@ -1,0 +1,917 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 0 0 4800 4800 
+%%LanguageLevel: 3
+%%Creator: CorelDRAW 2018 (64-Bit Evaluation Version)
+%%Title: Jack Skellington-1.eps
+%%CreationDate: Mon Sep 13 17:57:25 2021
+%%DocumentProcessColors: Cyan Magenta Yellow Black 
+%%DocumentSuppliedResources: (atend)
+%%EndComments
+%%BeginProlog
+/AutoFlatness false def
+/AutoSteps 0 def
+/CMYKMarks true def
+/DocPsLevel 3 def
+%Build: CorelDRAW 2018 (64-Bit Evaluation Version) Version 20.0.0.633
+/EpsFile true def
+%%BeginResource: procset wCorel20Dict 20.0 0
+/wCorel20Dict 300 dict def wCorel20Dict begin
+%----------------------------------------------------------------------------
+% Core Corel PostScript prolog functions
+/bd{bind def}bind def/ld{load def}bd/xd{exch def}bd/rp{{pop}repeat}bd/dexec{
+exch begin cvx exec end}bd/@cp/closepath ld/@gs/gsave ld/@gr/grestore ld/@np
+/newpath ld/Tl/translate ld/$sv 0 def/@sv{/$sv save def}bd/@rs{$sv restore}bd
+/spg/showpage ld/showpage{}bd currentscreen/@dsp xd/$dsp/@dsp def/$dsa xd/$dsf
+xd/$sdf false def/$SDF false def/$Scra 0 def/SetScr/setscreen ld/@ss{2 index 0
+eq{$dsf 3 1 roll 4 -1 roll pop}if exch $Scra add exch load SetScr}bd
+/SeparationMode where{pop}{/SeparationMode/Composite def}ifelse
+/SeparationPlateName where{pop}{/SeparationPlateName null def}ifelse
+/SeparateInColor where{pop}{/SeparateInColor false def}ifelse/EpsFile where
+{pop}{/EpsFile false def}ifelse/FillOverprint false def/$fil 0 def
+/OutlineOverprint 0 def/$PF false def/$bkg false def/CurrentOverprint false def
+matrix currentmatrix/$ctm xd/$ptm matrix def/$ttm matrix def/$stm matrix def
+/$ffpnt true def/CorelDrawReencodeVect[16#0/grave 16#5/breve 16#6/dotaccent
+16#8/ring 16#A/hungarumlaut 16#B/ogonek 16#C/caron 16#D/dotlessi
+16#27/quotesingle 16#60/grave 16#7C/bar 16#80/Euro
+16#82/quotesinglbase/florin/quotedblbase/ellipsis/dagger/daggerdbl
+16#88/circumflex/perthousand/Scaron/guilsinglleft/OE
+16#91/quoteleft/quoteright/quotedblleft/quotedblright/bullet/endash/emdash
+16#98/tilde/trademark/scaron/guilsinglright/oe 16#9F/Ydieresis
+16#A1/exclamdown/cent/sterling/currency/yen/brokenbar/section
+16#a8/dieresis/copyright/ordfeminine/guillemotleft/logicalnot/minus/registered/macron
+16#b0/degree/plusminus/twosuperior/threesuperior/acute/mu/paragraph/periodcentered
+16#b8/cedilla/onesuperior/ordmasculine/guillemotright/onequarter/onehalf/threequarters/questiondown
+16#c0/Agrave/Aacute/Acircumflex/Atilde/Adieresis/Aring/AE/Ccedilla
+16#c8/Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute/Icircumflex/Idieresis
+16#d0/Eth/Ntilde/Ograve/Oacute/Ocircumflex/Otilde/Odieresis/multiply
+16#d8/Oslash/Ugrave/Uacute/Ucircumflex/Udieresis/Yacute/Thorn/germandbls
+16#e0/agrave/aacute/acircumflex/atilde/adieresis/aring/ae/ccedilla
+16#e8/egrave/eacute/ecircumflex/edieresis/igrave/iacute/icircumflex/idieresis
+16#f0/eth/ntilde/ograve/oacute/ocircumflex/otilde/odieresis/divide
+16#f8/oslash/ugrave/uacute/ucircumflex/udieresis/yacute/thorn/ydieresis]def
+/get_ps_level/languagelevel where{pop systemdict/languagelevel get exec}{1}
+ifelse def/Level2 get_ps_level 2 ge def/Level3 get_ps_level 3 ge def
+/AdobeDistiller/product where{pop systemdict/setdistillerparams known product
+(Adobe PostScript Parser)ne and}{false}ifelse def/InRipSeparation
+AdobeDistiller{false}{Level2{currentpagedevice/Separations 2 copy known{get}{
+pop pop false}ifelse}{false}ifelse}ifelse def/ColorSeparationLevel1 1 0 0 0
+gsave setcmykcolor currentcmykcolor grestore add add add 0 ne 0 1 0 0 gsave
+setcmykcolor currentcmykcolor grestore add add add 0 ne 0 0 1 0 gsave
+setcmykcolor currentcmykcolor grestore add add add 0 ne 0 0 0 1 gsave
+setcmykcolor currentcmykcolor grestore add add add 0 ne and and and not def
+/ColorSeparation/LumSepsDict where{pop false}{/AldusSepsDict where{pop false}{
+InRipSeparation{true}{ColorSeparationLevel1}ifelse}ifelse}ifelse def
+/IsColorDevice/deviceinfo where{pop deviceinfo/Colors known{deviceinfo/Colors
+get exec 1 gt}{false}ifelse}{/statusdict where{pop statusdict/processcolors
+known{statusdict/processcolors get exec 1 gt}{false}ifelse}{false}ifelse}
+ifelse def/get_simulate_devicen get_ps_level 2 eq{{SeparationMode/OnHost ne
+InRipSeparation AdobeDistiller or and}bind}{false}ifelse def/DocGrayScaleSpace
+[/DeviceGray]def/DocRgbSpace[/DeviceRGB]def/DocCmykSpace[/DeviceCMYK]def
+/DocLabSpace[/CIEBasedABC <</BlackPoint[0 0 0]/WhitePoint[0.9637 1.0000 0.8241
+]/RangeABC[0 100 -128 127 -128 127]/DecodeABC[{16 add 116 div}bind{500 div}
+bind{200 div}bind]/MatrixABC[1 1 1 1 0 0 0 0 -1]/DecodeLMN[{dup 0.206897 ge{dup
+dup mul mul}{0.137931 sub 0.128419 mul}ifelse 0.9637 mul}bind{dup 0.206897
+ge{dup dup mul mul}{0.137931 sub 0.128419 mul}ifelse 1.0000 mul}bind{dup
+0.206897 ge{dup dup mul mul}{0.137931 sub 0.128419 mul}ifelse 0.8241 mul}bind]
+>>]def/validate_cie_colorspace_whitepoint{load dup aload pop/WhitePoint get 1
+1.0 put pop}bd/set_cie_colorspaces{/DocGrayScaleSpaceCIE where{pop
+/DocGrayScaleSpaceCIE validate_cie_colorspace_whitepoint/DocGrayScaleSpace xd
+DocGrayScaleSpace aload pop begin pop/DecodeA where{pop DecodeA type/arraytype
+eq{DecodeA aload pop/DecodeA exch def}if}if end}if/DocRgbSpaceCIE where{pop
+/DocRgbSpaceCIE validate_cie_colorspace_whitepoint/DocRgbSpace xd}if
+/DocCmykSpaceCIE where{pop/DocCmykSpaceCIE validate_cie_colorspace_whitepoint
+/DocCmykSpace xd}if}bd/set_rendering_intent{Level3{findcolorrendering{
+/ColorRendering findresource setcolorrendering}{dup/DefaultColorRendering eq{
+pop}{/ColorRendering findresource setcolorrendering}}ifelse}{pop}ifelse}bd
+/findcmykcustomcolor where{pop}{/findcmykcustomcolor{5 array astore}def}ifelse
+/setcustomcolor where SeparationMode/OnHost ne and{pop}{/tint_cmyk_color{5 -1
+roll dup 1 ge{pop}{4{dup 6 -1 roll mul exch}repeat pop}ifelse}bd
+/setprocesscolor_5{SepMode_5 0 eq{SetCmyk_5}{SepsColor not{4 1 roll pop pop pop
+1 exch sub SetGry}{SetCmyk_5}ifelse}ifelse}bd/setcustomcolor{exch aload pop
+SepMode_5 0 eq{pop tint_cmyk_color setprocesscolor_5}{CurrentInkName_5 eq{4
+index}{0}ifelse 6 1 roll 5 rp 1 sub neg SetGry}ifelse}bd}ifelse
+/convert_rgb_to_cmyk{dup type/dicttype eq{}{3{1 exch sub 3 1 roll}repeat 3 copy
+min min 3{dup 5 -1 roll sub neg exch}repeat}ifelse}bd/safe_setcolorspace{dup
+currentcolorspace eq{pop}{setcolorspace}ifelse}bd/safe_setoverprint{dup type
+/booleantype eq{dup currentoverprint ne{setoverprint}{pop}ifelse}{1 eq
+setoverprint}ifelse}bd/is_cmyk_channel_name{/channel_name xd channel_name/Cyan
+eq channel_name/Magenta eq or channel_name/Yellow eq or channel_name/Black eq
+or{true}{false}ifelse}bd/is_rgb_channel_name{/channel_name xd channel_name/Red
+eq channel_name/Green eq or channel_name/Blue eq or{true}{false}ifelse}bd
+/is_spot_channel_name{/channel_name xd channel_name is_cmyk_channel_name
+channel_name is_rgb_channel_name or channel_name/Gray eq or{false}{true}ifelse
+}bd/spot_tint_transform_proc{/alternativeSpace xd/alternativeColors xd/tint xd
+alternativeSpace DocLabSpace eq{/mixMethod/Additive def/altSpaceNumChannels 3
+def}{alternativeSpace DocCmykSpace eq{/mixMethod/Subtractive def
+/altSpaceNumChannels 4 def}{alternativeSpace DocRgbSpace eq{/mixMethod
+/Additive def/altSpaceNumChannels 3 def}{alternativeSpace DocGrayScaleSpace eq
+{/mixMethod/Additive def/altSpaceNumChannels 1 def}if}ifelse}ifelse}ifelse
+alternativeSpace DocLabSpace eq{alternativeColors aload pop tint mul 3 1 roll
+tint mul 3 1 roll dup 100 exch sub 1 tint sub mul add 3 1 roll}{/tintedColor
+altSpaceNumChannels{0.0}repeat altSpaceNumChannels array astore def 0 1
+altSpaceNumChannels 1 sub{/altChannelIndex exch def alternativeColors
+altChannelIndex get mixMethod/Additive eq{1.0 exch sub tint mul 1.0 exch sub}{
+tint mul}ifelse tintedColor altChannelIndex 3 2 roll put}for tintedColor aload
+pop}ifelse}bd/devicen_colorant_mixer_proc{/numChannels xd/alternativeSpace xd
+/channelNames xd/alternativeColors xd numColorants array astore/colorants xd
+/is_spot_channel_name_loc{is_spot_channel_name}bind def alternativeSpace
+DocCmykSpace eq{/mixMethod/Subtractive def/altSpaceNumChannels 4 def
+/is_spot_channel_name_loc{is_cmyk_channel_name not}bind def}{alternativeSpace
+DocRgbSpace eq{/mixMethod/Additive def/altSpaceNumChannels 3 def
+/is_spot_channel_name_loc{is_rgb_channel_name not}bind def}{alternativeSpace
+DocGrayScaleSpace eq{/mixMethod/Additive def/altSpaceNumChannels 1 def
+/is_spot_channel_name_loc{/Gray ne}bind def}if}ifelse}ifelse mixMethod
+/Additive eq{/mixedColor altSpaceNumChannels{0.0}repeat altSpaceNumChannels
+array astore def/bProcessPlateTinted false def 0 1 numChannels 1 sub{
+/channelIndex exch def channelNames channelIndex get is_spot_channel_name_loc
+/bSpotChannel xd/sourceChannel colorants channelIndex get def/bWhiteBackground
+0 mixedColor{add}forall altSpaceNumChannels div 0.999 gt bProcessPlateTinted
+and def bSpotChannel bProcessPlateTinted not and{/bSpotChannel false def}if 0 1
+altSpaceNumChannels 1 sub{/altChannelIndex exch def/mixedChannel mixedColor
+altChannelIndex get def sourceChannel alternativeColors channelIndex get
+altChannelIndex get 1.0 exch sub mul 1.0 exch sub dup 1.0 gt{pop 1.0}if dup 0.0
+lt{pop 0.0}if bSpotChannel{sourceChannel 0.0 gt{mixedChannel mul}{pop
+mixedChannel}ifelse}{/bProcessPlateTinted true def globaldict begin
+/bSkipDeviceNImage where{pop false}{true}ifelse end DevicenImage and{pop
+sourceChannel alternativeColors channelIndex get altChannelIndex get mul
+mixedChannel add}{mixedChannel add}ifelse}ifelse dup 1.0 gt{pop 1.0}if dup 0.0
+lt{pop 0.0}if mixedColor altChannelIndex 3 2 roll put}for}for}{/mixedColor
+altSpaceNumChannels{1}repeat altSpaceNumChannels array astore def 0 1
+altSpaceNumChannels 1 sub{/targetIndex exch def 0 1 numColorants 1 sub{
+/sourceIndex exch def colorants sourceIndex get alternativeColors sourceIndex
+get targetIndex get mul 1 exch sub mixedColor targetIndex get mul mixedColor
+targetIndex 3 2 roll put}for mixedColor targetIndex 1 mixedColor targetIndex
+get sub put}for}ifelse mixedColor aload pop}bd/ColorSpec 9 dict begin/color[]
+def/names[]def/num 0 def/ColorModel null def/ColorSpace[]def/set_color{
+ColorSeparationLevel1{convert_to_cmyk/color get aload pop setcmykcolor}{
+ColorSpace safe_setcolorspace color aload pop setcolor}ifelse}bd
+/separate_set_color{SeparationMode/OnHost eq{separate_color{/set_color dexec
+true}{pop currentoverprint{false}{SeparateInColor{0 0 0 0 SetCmyk_5 true}{1
+SetGry true}ifelse}ifelse}ifelse}{set_color true}ifelse}bd/separate_color{
+currentdict false}bd/convert_to_cmyk{currentdict}bd currentdict end def
+/GrayscaleColorSpec ColorSpec 9 dict copy begin/names{/Black}def/num 1 def
+/ColorModel/Grayscale def/ColorSpace DocGrayScaleSpace def/separate_color{
+currentdict false SeparationMode/OnHost eq{SeparationPlateName/Black eq{
+SeparateInColor{pop convert_to_cmyk true}{pop true}ifelse}if}if}bd
+/convert_to_cmyk{0 0 0 color aload pop 1 exch sub create_cmyk_color}bd
+currentdict end def/create_grayscale_color{GrayscaleColorSpec 9 dict copy begin
+/color exch 1 array astore def/ColorSpace DocGrayScaleSpace def currentdict end
+}bd/RgbColorSpec ColorSpec 9 dict copy begin/names{/Red/Green/Blue}def/num 3
+def/ColorModel/Rgb def/ColorSpace DocRgbSpace def/separate_color{
+convert_to_cmyk/separate_color dexec}bd/convert_to_cmyk{color aload pop
+convert_rgb_to_cmyk create_cmyk_color}bd currentdict end def/create_rgb_color{
+RgbColorSpec 9 dict copy begin 3 array astore/color exch def/ColorSpace
+DocRgbSpace def currentdict end}bd/HsbColorSpec ColorSpec 9 dict copy begin
+/names{/Hue/Saturation/Brightness}def/num 3 def/ColorModel/Hsb def/ColorSpace
+DocRgbSpace def/separate_color{convert_to_cmyk/separate_color dexec}bd
+/convert_to_cmyk{color aload pop hsb2rgb convert_rgb_to_cmyk create_cmyk_color
+}bd/convert_to_rgb{color aload pop hsb2rgb create_rgb_color}bd currentdict end
+def/create_hsb_color{HsbColorSpec 9 dict copy begin 3 array astore/color exch
+def/ColorSpace DocRgbSpace def currentdict end}bd/CmykColorSpec ColorSpec 9
+dict copy begin/names{/Cyan/Magenta/Yellow/Black}def/num 4 def/ColorModel/Cmyk
+def/ColorSpace DocCmykSpace def/separate_color{currentdict false
+SeparationPlateIndex 0 ge SeparationPlateIndex 3 le and{color
+SeparationPlateIndex get dup 0 gt{3 1 roll pop pop SeparateInColor{0 0 0 4
+SeparationPlateIndex roll create_cmyk_color true}{1 exch sub
+create_grayscale_color true}ifelse}{pop}ifelse}if}bd/convert_to_cmyk{
+currentdict}bd currentdict end def/create_cmyk_color{CmykColorSpec 9 dict copy
+begin 4 array astore/color exch def/ColorSpace DocCmykSpace def currentdict end
+}bd/SpotColorSpec ColorSpec 9 dict copy begin/num 1 def/ColorModel/Spot def
+/set_color{ColorSeparationLevel1{color aload pop get_cmyk_alternative_color
+/color get aload pop names aload pop findcmykcustomcolor exch setcustomcolor}{
+ColorSpace safe_setcolorspace color aload pop setcolor}ifelse}bd
+/separate_color{currentdict false SeparationPlateIndex 4 eq{names aload pop
+SeparationPlateName eq{color aload pop dup 0 gt{3 1 roll pop pop
+SeparateInColor{pop convert_to_cmyk true}{1 exch sub create_grayscale_color
+true}ifelse}{pop}ifelse}if}if}bd/convert_to_cmyk{/alternativeSpace ColorSpace 2
+get def/tintTransformProc ColorSpace 3 get def alternativeSpace DocCmykSpace eq
+{color aload pop tintTransformProc create_cmyk_color}{alternativeSpace
+DocRgbSpace eq{color aload pop tintTransformProc create_rgb_color
+/convert_to_cmyk dexec}{alternativeSpace DocGrayScaleSpace eq{0 0 0 color aload
+pop 1 sub create_cmyk_color}{0 0 0 1 create_cmyk_color}ifelse}ifelse}ifelse}bd
+/get_cmyk_alternative_color{/alternativeSpace ColorSpace 2 get def
+alternativeSpace DocCmykSpace eq{alternativeColor aload pop create_cmyk_color}
+{alternativeSpace DocRgbSpace eq{alternativeColor aload pop create_rgb_color
+/convert_to_cmyk dexec}{alternativeSpace DocGrayScaleSpace eq{alternativeColor
+aload pop create_grayscale_color/convert_to_cmyk dexec}{0 0 0 1
+create_cmyk_color}ifelse}ifelse}ifelse}bd currentdict end def
+/create_spot_colorspace{load/alternativeSpace xd/alternativeColor xd/name xd[
+/Separation name alternativeSpace[alternativeColor alternativeSpace
+/spot_tint_transform_proc cvx]cvx]}bd/create_spot_color{SpotColorSpec 9 dict
+copy begin dup type/arraytype ne{create_spot_colorspace}if/ColorSpace xd/color
+exch 1 array astore def ColorSpace 1 get 1 array astore/names xd currentdict
+end}bd/DevicenColorSpec SpotColorSpec 9 dict copy begin/ColorModel/DeviceN def
+/set_color{Level3{ColorSpace safe_setcolorspace color aload pop setcolor}{
+ColorSpace 2 get setcolorspace color aload pop ColorSpace 3 get exec setcolor}
+ifelse}bd/separate_color{currentdict false/PlateIndex -1 def 0 1 num 1 sub{dup
+names exch get SeparationPlateName eq{/PlateIndex xd exit}if pop}for PlateIndex
+0 ge{color PlateIndex get dup 0 gt{SeparateInColor{num 1 sub{0}repeat num
+PlateIndex roll ColorSpace create_devicen_color/convert_to_cmyk dexec true}{1
+exch sub create_grayscale_color true}ifelse 4 2 roll pop pop}{pop}ifelse}if}bd
+/get_ink_as_spot{dup/indexInk xd dup color exch get exch names exch get[1.0 num
+1 sub{0}repeat num indexInk roll ColorSpace 3 get exec]ColorSpace 2 get
+create_spot_color}bd currentdict end def/create_devicen_colorspace{
+/numColorants xd load/alternativeSpace xd bind/tintTransform exch def/names xd
+[/DeviceN names alternativeSpace/tintTransform load]}bd/create_devicen_color{
+DevicenColorSpec 9 dict copy begin dup type/arraytype ne{
+create_devicen_colorspace}if/ColorSpace xd/num ColorSpace 1 get length def
+/names ColorSpace 1 get def num array astore/color xd currentdict end}bd
+/RegistrationColorSpec ColorSpec 9 dict copy begin/num 1 def/ColorModel
+/Registration def/ColorSpace{[/Separation/All DocCmykSpace{dup dup dup}]}def
+/names[/All]def/set_color{ColorSeparationLevel1{DocGrayScaleSpace
+safe_setcolorspace color aload pop 1 exch sub setcolor}{ColorSpace
+safe_setcolorspace color aload pop setcolor}ifelse}bd/separate_color{
+SeparateInColor{convert_to_cmyk true}{color aload pop 1 exch sub
+create_grayscale_color true}ifelse}bd/convert_to_cmyk{color aload pop dup dup
+dup create_cmyk_color}bd currentdict end def/create_registration_color{
+RegistrationColorSpec 9 dict copy begin 1 array astore/color xd currentdict end
+}bd/LabColorSpec ColorSpec 9 dict copy begin/names{/L/a/b}def/num 3 def
+/ColorModel/Lab def/ColorSpace DocLabSpace def/separate_color{convert_to_cmyk
+/separate_color dexec}bd/convert_to_cmyk{0 0 0 0 create_cmyk_color}bd
+currentdict end def/create_lab_color{LabColorSpec 9 dict copy begin 3 array
+astore/color exch def/ColorSpace DocLabSpace def currentdict end}bd
+/set_solid_fill{/FillColor xd/$fil 0 def}bd/set_outline{/OutlineColor xd}bd
+/CheckLevelCompatibility{/DocPsLevel where{pop DocPsLevel get_ps_level gt{@np
+/Courier findfont 12 scalefont setfont 72 144 m
+(The PostScript level of Corel document is higher than the PostScript)show 72
+132 m(level of this device. Change the PS Level in the Corel application)show
+72 120 m(by selecting the PostScript tab in the print dialog, and selecting)
+show 72 108 m(document level from the Compatibility drop down list.)show flush
+spg quit}if}if}bd/@BeginSysCorelDict{systemdict/Corel30Dict known{systemdict
+/Corel30Dict get exec}if systemdict/CorelLexDict known{1 systemdict
+/CorelLexDict get exec}if}bd/@EndSysCorelDict{systemdict/Corel30Dict known
+{end}if/EndCorelLexDict where{pop EndCorelLexDict}if}bd/AutoFlatness where{pop
+AutoFlatness{/@ifl{dup currentflat exch sub 10 gt{
+([Error: PathTooComplex; OffendingCommand: AnyPaintingOperator]\n)print flush
+@np exit}{currentflat 2 add setflat}ifelse}bd/@fill/fill ld/fill{currentflat{
+{@fill}stopped{@ifl}{exit}ifelse}bind loop setflat}bd/@eofill/eofill ld/eofill
+{currentflat{{@eofill}stopped{@ifl}{exit}ifelse}bind loop setflat}bd/@clip
+/clip ld/clip{currentflat{{@clip}stopped{@ifl}{exit}ifelse}bind loop setflat}
+bd/@eoclip/eoclip ld/eoclip{currentflat{{@eoclip}stopped{@ifl}{exit}ifelse}
+bind loop setflat}bd/@stroke/stroke ld/stroke{currentflat{{@stroke}stopped
+{@ifl}{exit}ifelse}bind loop setflat}bd}if}if/@ssa Level2{{true
+setstrokeadjust}}{{}}ifelse bd/d/setdash ld/j/setlinejoin ld/J/setlinecap ld/M
+/setmiterlimit ld/w/setlinewidth ld/O{/FillOverprint xd}bd/R{/OutlineOverprint
+xd}bd/W/eoclip ld/c/curveto ld/C/c ld/l/lineto ld/L/l ld/rl/rlineto ld/m
+/moveto ld/n/newpath ld/N/newpath ld/P{11 rp}bd/u{}bd/U{}bd/A{pop}bd/q/@gs ld
+/Q/@gr ld/&{}bd/@j{@sv @np}bd/@J{@rs}bd/g{1 exch sub 0 0 0 4 roll 3
+create_cmyk_color set_solid_fill/$fil 0 def}bd/G{1 sub neg 0 0 0 4 -1 roll
+create_cmyk_color set_outline}bd/i{dup 0 ne{setflat}{pop}ifelse}bd/v{4 -2 roll
+2 copy 6 -2 roll c}bd/V/v ld/y{2 copy c}bd/Y/y ld/@w{matrix rotate/$ptm xd
+matrix scale $ptm dup concatmatrix/$ptm xd 1 eq{$ptm exch dup concatmatrix
+/$ptm xd}if/patternScallingMatrix where{pop patternScallingMatrix $ptm matrix
+concatmatrix/$ptm xd}if 1 w}bd/@g{1 eq dup/$sdf xd{/$scp xd/$sca xd/$scf xd}if
+}bd/@G{1 eq dup/$SDF xd{/$SCP xd/$SCA xd/$SCF xd}if}bd/@D{2 index 0 eq{$dsf 3 1
+roll 4 -1 roll pop}if 3 copy exch $Scra add exch load SetScr/$dsp xd/$dsa xd
+/$dsf xd}bd/$ngx{$SDF{$SCF SeparationMode/Composite eq{$SCA}{$dsa}ifelse $SCP
+@ss}if}bd/min{2 copy le{pop}{exch pop}ifelse}bd/max{2 copy ge{pop}{exch pop}
+ifelse}bd/in_range{3 -1 roll min max}bd/InRange/in_range load bd/@sqr{dup 0 rl
+dup 0 exch rl neg 0 rl @cp}bd/currentscale{1 0 dtransform matrix defaultmatrix
+idtransform dup mul exch dup mul add sqrt 0 1 dtransform matrix defaultmatrix
+idtransform dup mul exch dup mul add sqrt}bd/@unscale{}bd/wDstChck{2 1 roll dup
+3 -1 roll eq{1 add}if}bd/@dot{dup mul exch dup mul add 1 exch sub}bd/@lin{exch
+pop abs 1 exch sub}bd/cmyk2rgb{3{dup 5 -1 roll add 1 exch sub dup 0 lt{pop 0}
+if exch}repeat pop}bd/rgb2cmyk{3{1 exch sub 3 1 roll}repeat 3 copy min min 3{
+dup 5 -1 roll sub neg exch}repeat}bd/rgb2g{2 index .299 mul 2 index .587 mul
+add 1 index .114 mul add 4 1 roll pop pop pop}bd/WaldoColor_5 where{pop}{
+/CorelImage systemdict/image get def/CorelSetGray systemdict/setgray get def
+/CorelGetGray systemdict/currentgray get def/CorelSetTransfer systemdict
+/settransfer get def/CorelGetTransfer systemdict/currenttransfer get def
+/SetRgb/setrgbcolor ld/GetRgb/currentrgbcolor ld/SetGry/setgray ld/GetGry
+/currentgray ld/SetRgb2 systemdict/setrgbcolor get def/GetRgb2 systemdict
+/currentrgbcolor get def/SetHsb systemdict/sethsbcolor get def/GetHsb
+systemdict/currenthsbcolor get def/rgb2hsb{SetRgb2 GetHsb}bd/hsb2rgb{3 -1 roll
+dup floor sub 3 1 roll SetHsb GetRgb2}bd/setcmykcolor where{pop/LumSepsDict
+where{pop/SetCmyk_5{LumSepsDict/setcmykcolor get exec}def}{/AldusSepsDict where
+{pop/SetCmyk_5{AldusSepsDict/setcmykcolor get exec}def}{/SetCmyk_5
+/setcmykcolor ld}ifelse}ifelse}{/setcmykcolor{create_cmyk_color
+/separate_set_color dexec/$ffpnt xd}bd/SetCmyk_5{cmyk2rgb SetRgb}bd}ifelse
+/currentcmykcolor where{pop/GetCmyk/currentcmykcolor ld}{/GetCmyk{GetRgb
+rgb2cmyk}bd}ifelse/setoverprint where{pop}{/setoverprint{/CurrentOverprint xd}
+bd}ifelse/currentoverprint where{pop}{/currentoverprint{CurrentOverprint}bd}
+ifelse/colorimage where{pop/ColorImage{colorimage}def}{/ColorImage{/ncolors xd
+/$multi xd $multi true eq{ncolors 3 eq{/daqB xd/daqG xd/daqR xd pop pop exch
+pop abs{daqR pop daqG pop daqB pop}repeat}{/daqK xd/daqY xd/daqM xd/daqC xd pop
+pop exch pop abs{daqC pop daqM pop daqY pop daqK pop}repeat}ifelse}{/dataaq xd
+{dataaq ncolors dup 3 eq{/$dat xd 0 1 $dat length 3 div 1 sub{dup 3 mul $dat 1
+index get 255 div $dat 2 index 1 add get 255 div $dat 3 index 2 add get 255 div
+rgb2g 255 mul cvi exch pop $dat 3 1 roll put}for $dat 0 $dat length 3 idiv
+getinterval pop}{4 eq{/$dat xd 0 1 $dat length 4 div 1 sub{dup 4 mul $dat 1
+index get 255 div $dat 2 index 1 add get 255 div $dat 3 index 2 add get 255 div
+$dat 4 index 3 add get 255 div cmyk2rgb rgb2g 255 mul cvi exch pop $dat 3 1
+roll put}for $dat 0 $dat length ncolors idiv getinterval}if}ifelse}image}
+ifelse}bd}ifelse/currentcmykcolor{GetCmyk}bd/sethsbcolor{hsb2rgb setrgbcolor}
+bd/currenthsbcolor{currentrgbcolor rgb2hsb}bd/setgray{dup dup setrgbcolor}bd
+/currentgray{currentrgbcolor rgb2g}bd/InsideDCS false def/IMAGE/image ld/image
+{InsideDCS{IMAGE}{/EPSDict where{pop SeparationMode/Composite eq{IMAGE}{dup
+type/dicttype eq{dup/ImageType get 1 ne{IMAGE}{dup dup/BitsPerComponent get 8
+eq exch/BitsPerComponent get 1 eq or currentcolorspace 0 get DocGrayScaleSpace
+eq and{SeparationPlateName(Black)eq{IMAGE}{dup/DataSource get/TCC xd/Height get
+abs{TCC pop}repeat}ifelse}{IMAGE}ifelse}ifelse}{2 index 1 ne{
+SeparationPlateName(Black)eq{IMAGE}{/TCC xd pop pop exch pop abs{TCC pop}
+repeat}ifelse}{IMAGE}ifelse}ifelse}ifelse}{IMAGE}ifelse}ifelse}bd}ifelse/$fm 0
+def/wfill{1 $fm eq{fill}{eofill}ifelse}bd/@Pf{@sv SeparationMode/Composite eq{
+true}{$Psc 0 ne or $ink_5 3 eq or}ifelse{0 J 0 j[]0 d FillOverprint
+safe_setoverprint FillColor/separate_set_color dexec pop $ctm setmatrix 72 1000
+div dup matrix scale dup concat dup Bburx exch Bbury exch itransform ceiling
+cvi/Bbury xd ceiling cvi/Bburx xd Bbllx exch Bblly exch itransform floor cvi
+/Bblly xd floor cvi/Bbllx xd $Prm aload pop $Psn load exec}{1 SetGry wfill}
+ifelse @rs @np}bd/F{matrix currentmatrix $sdf{$scf $sca $scp @ss}if
+FillOverprint safe_setoverprint $fil 1 eq{CorelPtrnDoFill}{$fil 2 eq
+{gradient_fill}{$fil 3 eq{@Pf}{get_simulate_devicen FillColor/ColorModel get
+/DeviceN eq and{0 1 FillColor/num get 1 sub{dup 0 gt{true safe_setoverprint}if
+FillColor/get_ink_as_spot dexec/set_color dexec @gs wfill @gr}for}{FillColor
+/separate_set_color dexec{wfill}{@np}ifelse}ifelse}ifelse}ifelse}ifelse $sdf{
+$dsf $dsa $dsp @ss}if setmatrix}bd/f{@cp F}bd/S{matrix currentmatrix $ctm
+setmatrix $SDF{$SCF $SCA $SCP @ss}if OutlineOverprint safe_setoverprint
+get_simulate_devicen OutlineColor/ColorModel get/DeviceN eq and{0 1
+OutlineColor/num get 1 sub{dup 0 gt{true safe_setoverprint}if OutlineColor
+/get_ink_as_spot dexec/set_color dexec matrix currentmatrix $ptm concat @gs
+stroke @gr setmatrix}for}{OutlineColor/separate_set_color dexec{matrix
+currentmatrix $ptm concat stroke setmatrix}{@np}ifelse}ifelse $SDF{$dsf $dsa
+$dsp @ss}if setmatrix}bd/s{@cp S}bd/B{@gs F @gr S}bd/b{@cp B}bd/_E{5 array
+astore exch cvlit xd}bd/@cc{currentfile $dat readhexstring pop}bd/@sm{/$ctm
+$ctm currentmatrix def}bd/@E{/Bbury xd/Bburx xd/Bblly xd/Bbllx xd}bd/@c{@cp}bd
+/@P{/$fil 3 def/$Psn xd/$Psc xd array astore/$Prm xd}bd/tcc{@cc}def/@B{@gs S
+@gr F}bd/@b{@cp @B}bd/init_separation{/SeparationMode where{pop}{
+/SeparationMode/Composite def}ifelse/SeparationPlateName where{pop}{
+/SeparationPlateName null def}ifelse/SeparateInColor where{pop}{
+/SeparateInColor false def}ifelse SeparationMode/Composite eq{
+/SeparationPlateIndex -1 def}{/SeparationPlateIndex 4 def}ifelse/CmykPlates[
+/Cyan/Magenta/Yellow/Black]def 0 1 3{dup CmykPlates exch get
+SeparationPlateName eq{/SeparationPlateIndex xd exit}if pop}for
+/CurrentInkName_5 SeparationPlateName def/$ink_5 SeparationPlateIndex def
+SeparationMode/OnHost eq{/SepMode_5 2 def}{/SepMode_5 0 def}ifelse/SepsColor
+SeparateInColor def}bd/init_separation_from_legacy{EpsFile{/SepMode_5 where{
+pop SepMode_5 2 eq{/SeparationMode/OnHost def}{/SeparationMode/Composite def}
+ifelse}if/CurrentInkName_5 where{pop/SeparationPlateName CurrentInkName_5 def}
+if/$ink_5 where{pop/SeparationPlateIndex $ink_5 def}if/SepsColor where{pop
+/SeparateInColor SepsColor def}if}if}bd init_separation_from_legacy/@whi{@gs
+-72000 dup m -72000 72000 l 72000 dup l 72000 -72000 l @cp 1 SetGry fill @gr}
+bd/@neg{[{1 exch sub}/exec cvx currenttransfer/exec cvx]cvx settransfer @whi}
+bd/deflevel 0 def/@sax{/deflevel deflevel 1 add def}bd/@eax{/deflevel deflevel
+dup 0 gt{1 sub}if def deflevel 0 gt{/eax load}{eax}ifelse}bd/eax{{exec}forall}
+bd/@rax{deflevel 0 eq{@rs @sv}if}bd systemdict/pdfmark known not{/pdfmark
+/cleartomark ld}if/wclip{1 $fm eq{clip}{eoclip}ifelse}bd
+%----------------------------------------------------------------------------
+% Raster images support
+/set_image_clipping{concat 3 index 3 index m 3 index 1 index l 2 copy l 1 index
+3 index l 3 index 3 index l clip pop pop pop pop}bd/set_image_parameters{/$frg
+xd/$bkg xd/$ury xd/$urx xd/$lly xd/$llx xd/$ncl xd/$bts xd/$hei xd/$wid xd}bd
+/output_image{/@cc xd @sm @gs set_image_clipping set_image_parameters
+SeparationMode/OnHost eq EpsFile and{separate_output_image}{
+output_composite_image}ifelse @gr $ctm setmatrix}bd/output_composite_image{
+DocPsLevel 3 eq MaskedImage true eq and{output_masked_image}{$bts 1 gt
+DocPsLevel 2 eq DocPsLevel 3 eq or and{DevicenImage{output_devicen_image}{
+output_color_image}ifelse}{$bts 1 eq{output_monochrome_image}{
+output_color_image_level1}ifelse}ifelse}ifelse}bd/separate_output_image{@gs
+$bts 1 gt{separate_output_color_image}{separate_output_monochrome_image}ifelse
+@gr not{currentoverprint not{1.0 SetGry wfill}if}if @np}bd/set_decode_filter{
+ImageCompression/JPEG eq{/DCTDecode filter}{ImageCompression/RLE eq{
+/RunLengthDecode filter}{ImageCompression/LZW eq{/LZWDecode filter}if}ifelse}
+ifelse}bd/create_datasource{currentfile DevicenImage not get_ps_level 2 gt or{
+/ASCII85Decode filter}if set_decode_filter}bd/set_image_strip_parameters{
+/stripRows xd/numPlanes xd/stripBuffer $wid $bts mul $ncl mul stripRows mul 8
+div ceiling cvi dup 65535 gt{pop $ncl $bts mul}if string def DevicenImage{
+/readstrip{DataSource stripBuffer readhexstring pop}bd}{/readstrip{DataSource
+stripBuffer readstring pop}bd}ifelse/stripHeight $lly $ury sub stripRows mul
+$hei div def/stripOutBuffer $wid stripRows mul numPlanes mul 65535 min string
+def/strip_img_dict 8 dict def strip_img_dict begin/ImageType 1 def/Width $wid
+def/Height stripRows def/BitsPerComponent $bts def/Decode[numPlanes{0 1}
+repeat]def/ImageMatrix[$wid 0 0 stripRows neg 0 $hei 0 gt{stripRows}{0}ifelse]
+def/DataSource stripOutBuffer def end}bd/separate_output_color_image{
+/plateContent false def $ncl 1 eq{SeparationPlateName/Black eq{
+output_color_image/plateContent true def}if}{@np/DataSource create_datasource
+def SeparateInColor{DocCmykSpace setcolorspace/numPlanes 4 def}{
+DocGrayScaleSpace setcolorspace/numPlanes 1 def}ifelse/stripRows 65535 $wid
+$bts mul $ncl numPlanes max mul 8 div div floor cvi 1 max def numPlanes
+stripRows set_image_strip_parameters/maxStripIndex $hei stripRows div ceiling
+cvi 1 sub def 0 1 maxStripIndex{/stripIndex exch def/$t_ury $ury stripHeight
+stripIndex mul add ceiling cvi def/$t_lly $t_ury stripHeight add ceiling cvi
+def stripIndex maxStripIndex eq{numPlanes $hei maxStripIndex stripRows mul sub
+set_image_strip_parameters/$t_lly $t_ury stripHeight add ceiling cvi def}if
+readstrip pop @gs 0 1 $wid stripRows mul 1 sub{/pixelIndex xd stripBuffer
+pixelIndex $ncl mul $ncl getinterval{255 div}forall DevicenImage{
+ImageDevicenSpace create_devicen_color}{$ncl 3 eq{create_rgb_color}{
+create_cmyk_color}ifelse}ifelse/separate_color dexec{/plateContent true def
+begin color aload pop end}{pop numPlanes[numPlanes 1 eq{1}{0}ifelse]cvx repeat
+}ifelse numPlanes array astore/pixelSepIndex pixelIndex numPlanes mul def
+/posColorant 0 def{stripOutBuffer pixelSepIndex posColorant add 3 -1 roll 255
+mul cvi put/posColorant posColorant 1 add def}forall}for $llx $t_lly Tl $urx
+$llx sub $t_ury $t_lly sub scale strip_img_dict image @gr}for $SDF{$dsf $dsa
+$dsp @ss}if}ifelse plateContent}bd/separate_output_monochrome_image{
+SeparationPlateName/Black eq{output_monochrome_image true}{false}ifelse}bd
+/output_monochrome_image{$frg 1 eq{OutlineOverprint safe_setoverprint
+ImageForegroundColor/separate_set_color dexec{1}{0}ifelse/$frg xd}{/$frg false
+def}ifelse $bkg 1 eq{@gs $ctm setmatrix F @gr}if @np/$dat $wid $bts mul 8 div
+ceiling cvi 65535 min string def $bkg $frg add 1 ge{$SDF{$SCF $SCA $SCP @ss}if
+$llx $lly Tl $urx $llx sub $ury $lly sub scale $bkg 1 eq{FillColor
+/separate_set_color dexec pop}if $wid $hei abs $bts 1 eq{$bkg 1 ge}{$bts 1 ge}
+ifelse[$wid 0 0 $hei neg 0 $hei 0 gt{$hei}{0}ifelse]/tcc load $bts 1 eq
+{imagemask}{image}ifelse $SDF{$dsf $dsa $dsp @ss}if}{$hei abs{tcc pop}repeat}
+ifelse}bd/output_color_image_level1{@np $ngx $llx $lly Tl $urx $llx sub $ury
+$lly sub scale $wid $hei abs $bts[$wid 0 0 $hei neg 0 $hei 0 gt{$hei}{0}ifelse
+]/$dat $wid $bts mul $ncl mul 8 div ceiling cvi 65535 min string def $msimage
+false eq $ncl 1 eq or{/@cc load false $ncl ColorImage}{$wid $bts mul 8 div
+ceiling cvi $ncl 3 eq{dup dup/$dat1 exch string def/$dat2 exch string def
+/$dat3 exch string def/@cc1 load/@cc2 load/@cc3 load}{dup dup dup/$dat1 exch
+string def/$dat2 exch string def/$dat3 exch string def/$dat4 exch string def
+/@cc1 load/@cc2 load/@cc3 load/@cc4 load}ifelse true $ncl ColorImage}ifelse
+$SDF{$dsf $dsa $dsp @ss}if}bd/@cc1{currentfile $dat1 readhexstring pop}bd/@cc2
+{currentfile $dat2 readhexstring pop}bd/@cc3{currentfile $dat3 readhexstring
+pop}bd/@cc4{currentfile $dat4 readhexstring pop}bd/$msimage false def
+/ImageCompression/None def/MaskedImage false def/DevicenImage false def
+/output_color_image{@np $ncl 1 eq{DocGrayScaleSpace}{$ncl 3 eq{DocRgbSpace}
+{DocCmykSpace}ifelse}ifelse setcolorspace/$dat $wid $bts mul $ncl mul 8 div
+ceiling cvi 65535 min string def $ngx $llx $lly Tl $urx $llx sub $ury $lly sub
+scale 8 dict begin/ImageType 1 def/Width $wid def/Height $hei abs def
+/BitsPerComponent $bts def/Decode[$ncl{0 1}repeat]def/ImageMatrix[$wid 0 0 $hei
+neg 0 $hei 0 gt{$hei}{0}ifelse]def/DataSource create_datasource def currentdict
+end image $SDF{$dsf $dsa $dsp @ss}if}bd/simulate_devicen_image{@np $ngx
+/colorantNames ImageDevicenSpace 1 get def/altColorSpace ImageDevicenSpace 2
+get def/tintProc ImageDevicenSpace 3 get def/DataSource create_datasource def
+/stripRows 65535 $wid $bts mul $ncl mul 8 div div floor cvi 1 max def 1
+stripRows set_image_strip_parameters/maxStripIndex $hei stripRows div ceiling
+cvi 1 sub def 0 1 maxStripIndex{/stripIndex exch def/$t_ury $ury stripHeight
+stripIndex mul add ceiling cvi def/$t_lly $t_ury stripHeight add ceiling cvi
+def stripIndex maxStripIndex eq{1 $hei maxStripIndex stripRows mul sub
+set_image_strip_parameters/$t_lly $t_ury stripHeight add ceiling cvi def}if
+readstrip pop @gs $llx $t_lly Tl $urx $llx sub $t_ury $t_lly sub scale 0 1 $ncl
+1 sub{@gs/inkIndex exch def 0 1 stripOutBuffer length 1 sub{dup $ncl mul
+inkIndex add stripBuffer exch get stripOutBuffer 3 1 roll put}for[/Separation
+colorantNames inkIndex get altColorSpace{$ncl 1 sub{0}repeat $ncl inkIndex roll
+tintProc}]setcolorspace inkIndex 0 gt{true setoverprint}if strip_img_dict image
+@gr}for @gr}for $SDF{$dsf $dsa $dsp @ss}if}bd/output_devicen_image_alt{@np $ngx
+/colorantNames ImageDevicenSpace 1 get def/altColorSpace ImageDevicenSpace 2
+get def/tintProc ImageDevicenSpace 3 get def altColorSpace DocCmykSpace eq{
+/numAltChannels 4 def}{altColorSpace DocRgbSpace eq{/numAltChannels 3 def}{
+/numAltChannels 1 def}ifelse}ifelse/DataSource create_datasource def
+altColorSpace setcolorspace/stripRows 65535 $wid $bts mul $ncl numAltChannels
+max mul 8 div div floor cvi 1 max def numAltChannels stripRows
+set_image_strip_parameters/maxStripIndex $hei stripRows div ceiling cvi 1 sub
+def 0 1 maxStripIndex{/stripIndex exch def/$t_ury $ury stripHeight stripIndex
+mul add ceiling cvi def/$t_lly $t_ury stripHeight add ceiling cvi def
+stripIndex maxStripIndex eq{numAltChannels $hei maxStripIndex stripRows mul sub
+set_image_strip_parameters/$t_lly $t_ury stripHeight add ceiling cvi def}if
+readstrip pop @gs 0 1 stripBuffer length $ncl div cvi 1 sub{/pixelIndex xd
+stripBuffer pixelIndex $ncl mul $ncl getinterval{255 div}forall tintProc exec
+numAltChannels array astore/pixelAltIndex pixelIndex numAltChannels mul def
+/posColorant 0 def{stripOutBuffer pixelAltIndex posColorant add 3 -1 roll 255
+mul cvi put/posColorant posColorant 1 add def}forall}for $llx $t_lly Tl $urx
+$llx sub $t_ury $t_lly sub scale strip_img_dict image @gr}for $SDF{$dsf $dsa
+$dsp @ss}if}bd/output_devicen_image_native{@np $ngx ImageDevicenSpace
+setcolorspace/scanline $wid $bts mul $ncl mul 8 div ceiling cvi 65535 min
+string def/readscanline{currentfile scanline readhexstring pop}bind def $llx
+$lly Tl $urx $llx sub $ury $lly sub scale 8 dict begin/ImageType 1 def/Width
+$wid def/Height $hei abs def/BitsPerComponent $bts def/Decode[$ncl{0 1}repeat]
+def/ImageMatrix[$wid 0 0 $hei neg 0 $hei 0 gt{$hei}{0}ifelse]def/DataSource{
+readscanline}def currentdict end image $SDF{$dsf $dsa $dsp @ss}if}bd
+/output_devicen_image{Level3{output_devicen_image_native}{get_simulate_devicen
+{simulate_devicen_image}{output_devicen_image_alt}ifelse}ifelse}bd
+/output_masked_image{/$dat $wid $bts mul $ncl mul 8 div ceiling cvi 65535 min
+string def $ngx DevicenImage{ImageDevicenSpace}{$ncl 1 eq{DocGrayScaleSpace}{
+$ncl 3 eq{DocRgbSpace}{DocCmykSpace}ifelse}ifelse}ifelse setcolorspace $llx
+$lly Tl $urx $llx sub $ury $lly sub scale/ImageDataDict 8 dict def
+ImageDataDict begin/ImageType 1 def/Width $wid def/Height $hei abs def
+/BitsPerComponent $bts def/Decode[$ncl{0 1}repeat]def/ImageMatrix[$wid 0 0 $hei
+neg 0 $hei 0 gt{$hei}{0}ifelse]def/DataSource create_datasource def end
+/MaskedImageDict 7 dict def MaskedImageDict begin/ImageType 3 def
+/InterleaveType 3 def/MaskDict ImageMaskDict def/DataDict ImageDataDict def end
+MaskedImageDict image $SDF{$dsf $dsa $dsp @ss}if}bd/set_image_mask{/$mbts xd
+/$mhei xd/$mwid xd/ImageMaskDict 8 dict def ImageMaskDict begin/ImageType 1 def
+/Width $mwid def/Height $mhei abs def/BitsPerComponent $mbts def/DataSource
+maskstream def/ImageMatrix[$mwid 0 0 $mhei neg 0 $mhei 0 gt{$mhei}{0}ifelse]
+def/Decode[1 0]def end}bd/@daq{dup type/arraytype eq{aload pop}if}bd
+/skip_image_body{8 rp/$ury xd/$urx xd/$lly xd/$llx xd/$ncl xd/$bts xd/$hei xd
+/$wid xd DevicenImage not ImageCompression/JPEG eq or ImageCompression/RLE eq
+or ImageCompression/LZW eq or{create_datasource flushfile}{/scanline $wid $bts
+mul $ncl mul 8 div ceiling cvi dup 65535 gt{pop $bts $ncl mul}if string def
+/upperBound $wid $hei mul $bts mul $ncl mul scanline length div cvi 1 sub def 0
+1 upperBound{pop currentfile scanline readhexstring pop pop}for}ifelse}bd
+/disable_raster_output{deflevel 0 eq{@rs}if/output_image load
+/output_image_original exch def/output_image/skip_image_body load def
+globaldict begin/bSkipDeviceNImage true def end deflevel 0 eq{@sv}if}def
+/enable_raster_output{deflevel 0 eq{@rs}if/bSkipDeviceNImage where{
+/bSkipDeviceNImage undef/output_image/output_image_original load def}if
+deflevel 0 eq{@sv}if}def
+end
+%%EndResource
+%%EndProlog
+%%BeginSetup
+wCorel20Dict begin
+@BeginSysCorelDict
+/$dcm matrix currentmatrix def
+@ssa
+1.00 setflat
+/$fst 128 def
+%%EndSetup
+
+%%Page: 1 1
+%%ViewingOrientation: 1 0 0 1
+%%BoundingBox: 0 0 4799 4799
+%LogicalPage: 1
+%%BeginPageSetup
+@sv
+@sm
+@sv
+%%EndPageSetup
+@rax %Note: Object
+1765.43972 334.31584 3046.16409 4333.83846 @E
+/$fm 0 def
+ 0 O 0 @g
+0.1569 0.1569 0.1608  create_rgb_color set_solid_fill
+2481.34762 3673.43972 m
+2478.94753 3715.67991 L
+2478.94753 3715.67991 2391.58743 3711.83981 2345.50743 3773.75981 c
+2299.42743 3835.67981 2218.78743 4023.83962 2400.22743 4104.47962 c
+2581.66743 4185.11962 2764.06781 3906.71972 2557.66762 3750.71981 C
+2561.50743 3631.19981 L
+2561.50743 3631.19981 2663.26753 3618.71972 2732.38753 3630.23972 c
+2801.50753 3641.75972 2893.66724 3626.39991 2943.10743 3611.99991 C
+2943.10743 3611.99991 2725.66743 3632.63953 2738.62743 3602.87972 c
+2751.58743 3573.11991 2862.46743 3555.35972 2892.22753 3549.11981 c
+2921.98762 3542.87991 2992.54734 3509.28000 2997.82743 3501.11991 C
+2997.82743 3501.11991 2916.22734 3533.75972 2868.22743 3537.59981 c
+2820.22753 3541.43991 2769.82781 3546.23981 2756.38762 3551.99981 c
+2742.94743 3557.75981 2702.14724 3559.19981 2714.14743 3546.23981 c
+2726.14762 3533.27981 2806.78762 3496.31972 2821.18762 3481.91972 C
+2821.18762 3481.91972 2765.02762 3504.47981 2739.10762 3511.67981 c
+2713.18762 3518.87981 2680.54753 3539.03953 2666.14753 3542.39972 c
+2651.74753 3545.75991 2656.54743 3533.27981 2677.66753 3523.19981 c
+2698.78762 3513.11981 2720.38762 3469.91981 2718.94762 3451.19981 c
+2717.50762 3432.47981 2690.62724 3403.19991 2696.86743 3404.63991 c
+2703.10762 3406.07991 2742.94743 3432.47981 2749.66753 3445.43981 c
+2756.38762 3458.39981 2755.90772 3455.99972 2766.46762 3454.07981 c
+2777.02753 3452.15991 2768.86743 3467.51972 2792.86753 3467.03981 c
+2816.86762 3466.55991 2843.74743 3469.91981 2856.70743 3474.23981 c
+2869.66743 3478.55981 2880.22762 3471.35981 2877.82753 3467.03981 c
+2875.42743 3462.71981 2883.58724 3462.71981 2889.82743 3462.71981 c
+2896.06762 3462.71981 2893.66781 3456.96009 2906.14762 3450.71991 c
+2918.62743 3444.47972 2944.54772 3423.35991 2947.90762 3413.27991 c
+2951.26753 3403.19991 2941.66743 3412.79972 2936.86753 3415.19981 c
+2932.06762 3417.59991 2893.66781 3432.47981 2887.42762 3435.35981 c
+2881.18743 3438.23981 2874.46762 3437.28000 2874.94753 3440.63991 c
+2875.42743 3443.99981 2869.66743 3441.12009 2861.98753 3434.87991 c
+2854.30762 3428.63972 2835.58762 3439.19991 2821.18762 3436.31991 c
+2806.78762 3433.43991 2796.94743 3425.75972 2789.02743 3428.15981 c
+2781.10743 3430.55991 2783.74734 3422.15972 2784.70743 3418.79981 c
+2785.66753 3415.43991 2785.66724 3415.91981 2781.82743 3411.59981 c
+2777.98762 3407.27981 2696.62762 3356.63972 2711.02762 3346.55972 c
+2725.42762 3336.47972 2730.70772 3351.35962 2748.46762 3333.59972 c
+2766.22753 3315.83981 2786.38724 3282.71953 2804.14743 3275.99972 c
+2821.90762 3269.27991 2822.86743 3267.35972 2822.38753 3261.59972 c
+2821.90762 3255.83972 2827.66762 3253.91981 2835.34753 3256.79981 c
+2843.02743 3259.67981 2839.18762 3248.16009 2847.82762 3244.79991 c
+2856.46762 3241.43972 2880.46743 3254.87991 2890.54743 3261.11981 c
+2900.62743 3267.35972 2902.54734 3275.51953 2910.70743 3277.43972 c
+2918.86753 3279.35991 2914.54724 3285.60009 2915.02743 3293.75991 c
+2915.50762 3301.91972 2956.30753 3358.55962 2956.30753 3371.03972 c
+2956.30753 3383.51981 2976.46753 3371.51991 2962.06753 3321.59981 c
+2947.66753 3271.67972 2949.58772 3269.27991 2944.30762 3269.27991 c
+2939.02753 3269.27991 2940.94743 3261.59972 2942.38743 3257.27972 c
+2943.82743 3252.95972 2943.34753 3254.87991 2933.26753 3245.27981 c
+2923.18753 3235.67972 2898.70753 3222.71972 2895.82753 3218.39972 c
+2892.94753 3214.07972 2898.70724 3213.60009 2915.02743 3205.91991 c
+2931.34762 3198.23972 2915.98724 3191.03972 2926.54743 3191.03972 c
+2937.10762 3191.03972 2947.66781 3196.32009 2955.82762 3191.51991 c
+2963.98743 3186.71972 3049.42734 3160.31953 3046.06743 3150.71972 c
+3042.70753 3141.11991 3012.46724 3145.43991 2989.90743 3147.35981 c
+2967.34762 3149.27972 2933.50762 3150.71972 2929.66753 3155.03972 c
+2925.82743 3159.35972 2926.30762 3166.79953 2916.70753 3165.11972 c
+2907.10743 3163.43991 2900.14781 3165.59991 2896.78762 3167.51981 c
+2893.42743 3169.43972 2873.02762 3188.39953 2859.10753 3190.31972 c
+2845.18743 3192.23991 2849.50743 3195.59981 2840.86743 3188.39981 c
+2832.22743 3181.19981 2833.18781 3178.80000 2825.50762 3176.39991 c
+2817.82743 3173.99981 2799.58734 3169.67981 2797.66743 3161.03981 c
+2795.74753 3152.39981 2815.42734 3110.64009 2823.58743 3100.07991 c
+2831.74753 3089.51972 2840.38753 3072.71991 2840.38753 3066.95991 c
+2840.38753 3061.19991 2836.06753 3051.11991 2840.38753 3048.23991 c
+2844.70753 3045.35991 2921.98734 3028.55953 2930.14743 3016.07972 c
+2938.30753 3003.59991 2932.54724 3002.63981 2911.42743 3005.51981 c
+2890.30762 3008.39981 2849.98762 3000.71991 2839.90762 3006.95981 c
+2829.82762 3013.19972 2834.62724 3016.08000 2827.90743 3016.55991 c
+2821.18762 3017.03981 2819.26772 3017.99962 2819.74762 3024.71972 c
+2820.22753 3031.43981 2821.18762 3033.35972 2813.02753 3037.67972 c
+2804.86743 3041.99972 2798.14762 3060.71972 2793.82762 3077.99972 c
+2789.50762 3095.27972 2766.94724 3124.08000 2760.22743 3140.39991 c
+2753.50762 3156.71981 2757.82762 3163.92009 2745.34753 3180.71991 c
+2732.86743 3197.51972 2687.26734 3246.47972 2682.46743 3259.43972 c
+2677.66753 3272.39972 2645.98753 3314.63991 2630.14753 3322.31981 c
+2614.30753 3329.99972 2597.98762 3320.88009 2592.22762 3314.63991 c
+2586.46762 3308.39972 2492.38772 3211.44009 2464.06762 3179.27991 c
+2435.74753 3147.11972 2406.46762 3110.63953 2375.26753 3115.43972 c
+2344.06743 3120.23991 2323.42724 3168.24009 2316.70743 3163.43991 c
+2309.98762 3158.63972 2284.06762 3077.03991 2284.06762 3063.11981 c
+2284.06762 3049.19972 2286.46772 3043.91991 2294.14762 3028.07991 c
+2301.82753 3012.23991 2309.02753 2923.43953 2310.46753 2902.31972 c
+2311.90753 2881.19991 2348.38743 2740.07962 2386.78753 2689.19972 c
+2425.18762 2638.31981 2484.94762 2579.51962 2531.50753 2551.67972 c
+2578.06743 2523.83981 2771.98781 2358.23981 2819.02762 2153.75981 C
+2819.02762 2153.75981 2737.42781 2351.04009 2653.42762 2426.87991 C
+2653.42762 2426.87991 2782.06781 2203.20000 2788.78762 2130.23991 C
+2788.78762 2130.23991 2666.86781 2429.75991 2558.38762 2503.67981 C
+2558.38762 2503.67981 2664.94762 2399.99981 2730.22753 2201.27981 C
+2730.22753 2201.27981 2611.18743 2458.55991 2488.30753 2535.35981 C
+2488.30753 2535.35981 2615.98762 2385.60009 2633.26762 2308.79991 C
+2633.26762 2308.79991 2540.14724 2466.23953 2432.62743 2543.03972 C
+2432.62743 2543.03972 2571.34762 2371.68000 2597.26762 2272.79991 c
+2623.18762 2173.91981 2644.30743 2050.07981 2644.30743 2050.07981 c
+2644.30743 2050.07981 2557.90743 2355.83972 2399.50743 2495.03981 C
+2399.50743 2495.03981 2526.22743 2313.11962 2534.86743 2118.23972 C
+2534.86743 2118.23972 2447.50762 2381.75972 2332.30762 2486.39981 C
+2332.30762 2486.39981 2377.42724 1751.04000 2411.02743 1633.43991 c
+2444.62762 1515.83981 2688.94772 616.79962 2685.10762 607.19981 c
+2681.26753 597.60000 2652.22772 591.12000 2665.66762 576.72000 c
+2679.10753 562.32000 2698.30743 541.19991 2701.18743 528.23991 c
+2704.06743 515.27991 2635.90781 440.87981 2619.58762 429.35981 c
+2603.26743 417.83981 2554.78762 405.84019 2540.38762 411.12000 c
+2525.98762 416.39981 2523.58753 454.32000 2536.54753 465.84000 c
+2549.50753 477.36000 2584.54743 500.40000 2588.86743 519.59991 c
+2593.18743 538.79981 2599.42762 554.15991 2593.66762 564.23991 c
+2587.90762 574.31991 2579.26734 557.99972 2571.58743 605.03981 c
+2563.90753 652.07991 2476.54743 1163.27962 2456.38743 1198.79972 C
+2456.38743 1198.79972 2536.54781 514.32009 2543.26762 490.32000 C
+2543.26762 490.32000 2515.42743 476.88009 2515.42743 464.40000 c
+2515.42743 451.91991 2527.42734 390.48009 2518.30743 378.00000 c
+2509.18753 365.51991 2486.14753 334.79972 2445.82753 334.31981 c
+2405.50753 333.83991 2395.90743 379.92019 2415.58753 406.80000 c
+2435.26762 433.67981 2450.14781 457.19972 2442.46762 473.99981 c
+2434.78743 490.79991 2429.98781 494.64000 2429.50762 512.39991 c
+2429.02743 530.15981 2348.38772 1588.55981 2338.78762 1634.63981 c
+2329.18753 1680.71981 2098.78753 2781.36000 2101.66753 2837.99991 c
+2104.54753 2894.63981 2111.26762 3127.91981 2128.54762 3171.11981 c
+2145.82762 3214.31981 2195.74743 3334.32000 2187.10743 3350.63991 c
+2178.46743 3366.95981 2130.46753 3360.23972 2049.34762 3364.07981 c
+1968.22772 3367.91991 1853.50734 3379.92009 1820.86753 3382.31991 c
+1788.22772 3384.71972 1771.90753 3408.23991 1767.10762 3424.07991 c
+1762.30772 3439.91991 1768.54762 3455.75991 1777.18762 3460.55981 c
+1785.82762 3465.35972 2049.34762 3520.55991 2074.30753 3527.75991 c
+2099.26743 3534.95991 2187.10743 3551.27981 2191.42743 3558.47981 c
+2195.74743 3565.67981 2177.02743 3612.23972 2177.02743 3612.23972 c
+2177.02743 3612.23972 2097.34753 3580.07953 2056.54762 3543.11972 C
+2056.54762 3543.11972 2109.82762 3601.67981 2167.90753 3620.39981 C
+2153.50753 3671.75991 L
+2153.50753 3671.75991 2113.18753 3660.71981 2094.46753 3646.31981 C
+2094.46753 3646.31981 2111.74781 3667.91981 2150.14762 3682.31981 C
+2150.14762 3682.31981 2093.98734 3845.52000 2080.54743 3863.27991 c
+2067.10753 3881.03981 2072.38734 3893.03943 2077.66743 3894.95962 c
+2082.94753 3896.87981 2085.34734 3914.15981 2081.98743 3918.95972 c
+2078.62753 3923.75962 2066.62734 3947.99981 2069.02743 3952.31981 c
+2071.42753 3956.63981 2058.46781 3952.31981 2057.98762 3975.35981 c
+2057.50743 3998.39981 2066.86743 4019.03972 2069.74743 4029.11972 c
+2072.62743 4039.19972 2063.98772 4084.79953 2060.14762 4101.59962 c
+2056.30753 4118.39972 2051.02743 4145.75972 2051.02743 4155.83972 c
+2051.02743 4165.91972 2034.46743 4217.99981 2028.22753 4228.55972 c
+2021.98762 4239.11962 2016.94762 4257.59981 2023.42762 4264.07981 c
+2029.90762 4270.55981 2027.50753 4274.39962 2026.78753 4278.95972 c
+2026.06753 4283.51981 2077.42762 4305.35991 2097.58762 4305.83981 c
+2117.74762 4306.31972 2068.30743 4285.19962 2066.38753 4275.11962 c
+2064.46762 4265.03962 2069.74772 4265.51981 2067.34762 4257.35972 c
+2064.94753 4249.19962 2056.30724 4245.84000 2062.54743 4235.27981 c
+2068.78762 4224.71962 2083.18762 4164.23991 2091.82762 4164.71981 c
+2100.46762 4165.19972 2101.90762 4178.15943 2105.26753 4182.95962 c
+2108.62743 4187.75981 2109.10762 4195.91991 2108.14753 4206.47981 c
+2107.18743 4217.03972 2115.34753 4214.15972 2112.46753 4244.39972 c
+2109.58753 4274.63972 2105.74772 4288.07962 2110.54762 4294.79972 c
+2115.34753 4301.51981 2123.98753 4299.59962 2128.30753 4303.43972 c
+2132.62753 4307.27981 2135.50724 4315.43962 2144.62743 4317.83972 c
+2153.74762 4320.23981 2238.22772 4338.47962 2241.58762 4332.71962 c
+2244.94753 4326.95962 2186.38743 4309.19943 2181.58753 4303.91962 c
+2176.78762 4298.63981 2171.98743 4288.07962 2163.34743 4289.03972 c
+2154.70743 4289.99981 2149.42762 4285.19962 2147.98762 4281.83972 c
+2146.54762 4278.47981 2146.06743 4273.67962 2146.06743 4260.71962 c
+2146.06743 4247.75962 2145.58724 4216.55953 2144.62743 4208.87962 c
+2143.66762 4201.19972 2148.46724 4188.23972 2144.62743 4182.47972 c
+2140.78762 4176.71972 2151.34781 4171.91981 2153.74762 4175.27972 c
+2156.14743 4178.63962 2160.94762 4185.83991 2163.82762 4184.87981 c
+2166.70762 4183.91972 2167.66772 4191.11943 2165.26762 4200.23962 c
+2162.86753 4209.35981 2163.82734 4220.87953 2167.66743 4226.15962 c
+2171.50753 4231.43972 2193.10781 4245.83972 2205.58762 4260.23972 c
+2218.06743 4274.63972 2221.90781 4297.67972 2230.06762 4300.55972 c
+2238.22743 4303.43972 2242.06781 4299.11972 2245.90762 4303.43972 c
+2249.74743 4307.75972 2251.66762 4313.52000 2260.30762 4313.03981 c
+2268.94762 4312.55962 2344.78772 4272.71981 2338.06762 4268.87972 c
+2331.34753 4265.03962 2285.26724 4279.43991 2278.54743 4279.91981 c
+2271.82762 4280.39972 2272.78772 4276.55991 2266.06762 4275.59981 c
+2259.34753 4274.63972 2257.90781 4278.47981 2254.54762 4271.27981 c
+2251.18743 4264.07981 2221.42762 4233.35991 2218.54762 4222.31981 c
+2215.66762 4211.27972 2212.30772 4188.71962 2205.58762 4188.71962 c
+2198.86753 4188.71962 2198.38762 4181.04000 2199.82762 4174.79981 c
+2201.26762 4168.55962 2200.30781 4157.03962 2198.38762 4149.83962 c
+2196.46743 4142.63962 2178.22762 4120.07981 2178.22762 4106.15972 c
+2178.22762 4092.23962 2175.82753 4055.27953 2181.58753 4050.47962 c
+2187.34753 4045.67972 2208.94781 4052.87972 2231.50762 4067.27972 c
+2254.06743 4081.67972 2266.54781 4085.03962 2263.18762 4093.67962 c
+2259.82743 4102.31962 2265.58743 4117.19953 2266.54753 4122.47962 c
+2267.50762 4127.75972 2257.42734 4147.43981 2259.82743 4153.67972 c
+2262.22753 4159.91962 2290.06743 4133.52000 2291.02753 4127.27981 c
+2291.98762 4121.03962 2304.46743 4120.07981 2305.90743 4110.47972 c
+2307.34743 4100.87962 2310.22743 4093.67991 2301.58743 4085.51981 c
+2292.94743 4077.35972 2292.94772 4078.31953 2289.10762 4061.99962 c
+2285.26753 4045.67972 2286.70781 4046.15962 2280.46762 4044.71962 c
+2274.22743 4043.27962 2269.42724 4039.91943 2268.46743 4033.19962 c
+2267.50762 4026.47981 2258.86762 4028.40000 2247.34762 4019.27981 c
+2235.82762 4010.15962 2208.46762 4013.99972 2188.30762 4003.91972 c
+2168.14762 3993.83972 2163.34743 3966.95962 2157.10753 3956.87962 c
+2150.86762 3946.79962 2141.74772 3936.71991 2146.54762 3928.55981 c
+2151.34753 3920.39972 2153.74734 3922.31991 2160.46743 3909.83981 c
+2167.18753 3897.35972 2226.70743 3691.91991 2226.70743 3691.91991 c
+2226.70743 3691.91991 2328.94743 3692.87972 2312.62753 3723.11972 c
+2296.30762 3753.35972 2232.94762 3721.19981 2232.94762 3721.19981 c
+2232.94762 3721.19981 2271.34743 3760.56000 2327.02753 3748.07991 c
+2382.70762 3735.59981 2439.34724 3669.35981 2445.58743 3661.43981 C
+2451.82762 3653.51981 2469.58753 3650.87991 2481.34762 3673.43972 C
+@c
+2243.02762 3628.31981 m
+2264.86743 3566.87972 L
+2264.86743 3566.87972 2301.82781 3614.40000 2333.02762 3621.35991 C
+2302.33890 3629.97411 2274.69600 3635.10595 2243.02762 3628.31981 C
+@c
+2010.22753 3444.95991 m
+2010.22753 3444.95991 2151.34724 3482.39962 2206.54743 3483.35972 C
+2206.54743 3483.35972 2191.18734 3447.36000 2196.46743 3420.47991 C
+2196.46743 3420.47991 2104.78762 3429.11991 2083.66753 3431.99991 c
+2062.54743 3434.87991 2010.22753 3444.95991 2010.22753 3444.95991 C
+@c
+F
+
+@rax %Note: Object
+2364.22743 3734.57650 2648.93499 3928.75597 @E
+/$fm 0 def
+ 0 O 0 @g
+0.9961 0.9961 0.9961  create_rgb_color set_solid_fill
+2385.07880 3738.98154 m
+2377.90517 3743.11757 2370.87609 3747.97928 2364.22743 3753.70072 C
+2369.53587 3753.64687 2374.74907 3753.68428 2379.86872 3753.80929 C
+2371.90564 3761.54731 2371.53033 3767.70728 2371.53033 3767.70728 C
+2375.47106 3763.54346 2381.52671 3758.72882 2387.95228 3754.08198 C
+2391.85077 3754.25036 2395.69398 3754.46948 2399.48135 3754.73849 C
+2389.57370 3763.31528 2389.13802 3770.47304 2389.13802 3770.47304 C
+2393.49090 3765.87354 2400.42359 3760.48006 2407.58589 3755.39613 C
+2412.08391 3755.80743 2416.50198 3756.28961 2420.84069 3756.83896 C
+2408.68488 3766.22787 2408.18627 3774.46309 2408.18627 3774.46309 C
+2412.95953 3769.41940 2420.83531 3763.42044 2428.71392 3757.92236 C
+2433.37805 3758.61543 2437.94778 3759.38702 2442.42454 3760.23288 C
+2429.36164 3769.91093 2428.83723 3778.56227 2428.83723 3778.56227 C
+2433.70035 3773.42391 2441.78334 3767.29483 2449.80879 3761.71313 C
+2453.28236 3762.44929 2456.69811 3763.23024 2460.05688 3764.05455 C
+2449.00346 3772.23137 2448.55956 3779.54617 2448.55956 3779.54617 C
+2452.59723 3775.27975 2459.26517 3770.20346 2465.92970 3765.55465 C
+2469.26409 3766.43962 2472.54094 3767.36712 2475.76025 3768.33543 C
+2463.04857 3776.98535 2462.55959 3785.03433 2462.55959 3785.03433 C
+2466.88101 3780.46828 2474.21452 3774.97502 2481.33260 3770.07024 C
+2484.45808 3771.07569 2487.52942 3772.11855 2490.54491 3773.19827 C
+2481.11093 3780.18992 2480.73250 3786.43890 2480.73250 3786.43890 C
+2484.07654 3782.90551 2489.52756 3778.72356 2495.04491 3774.85143 C
+2499.94120 3776.69509 2504.69065 3778.63313 2509.29496 3780.65679 C
+2498.86318 3787.94013 2498.45613 3794.63443 2498.45613 3794.63443 C
+2501.94586 3790.94683 2507.73080 3786.55313 2513.49080 3782.54211 C
+2518.48998 3784.83761 2523.31540 3787.23203 2527.97046 3789.71320 C
+2516.58624 3797.24854 2516.15735 3804.35471 2516.15735 3804.35471 C
+2519.77748 3800.52935 2525.86715 3795.94431 2531.83691 3791.81452 C
+2537.39735 3794.89550 2542.71061 3798.09751 2547.78265 3801.39647 C
+2537.31373 3808.69002 2536.90611 3815.40047 2536.90611 3815.40047 C
+2540.27112 3811.84498 2545.76976 3807.63298 2551.32227 3803.74044 C
+2555.43222 3806.50904 2559.38202 3809.33858 2563.17250 3812.21660 C
+2552.94227 3819.44324 2552.54088 3826.04882 2552.54088 3826.04882 C
+2555.80243 3822.60246 2561.06891 3818.53956 2566.44595 3814.74822 C
+2571.39609 3818.63395 2576.07326 3822.59509 2580.48255 3826.59959 C
+2568.89764 3834.18510 2568.46110 3841.37688 2568.46110 3841.37688 C
+2571.93836 3837.70261 2577.69411 3833.32706 2583.43370 3829.32765 C
+2587.57370 3833.20828 2591.47616 3837.12038 2595.14334 3841.03332 C
+2586.26721 3846.82904 2585.93272 3852.33194 2585.93272 3852.33194 C
+2588.55335 3849.56277 2592.87080 3846.27118 2597.19619 3843.25030 C
+2600.02998 3846.34602 2602.72233 3849.43805 2605.27606 3852.51137 C
+2596.50794 3858.28044 2596.17770 3863.73713 2596.17770 3863.73713 C
+2598.74646 3861.02268 2602.94542 3857.80677 2607.18463 3854.83550 C
+2610.24633 3858.60756 2613.10677 3862.34504 2615.76822 3866.01846 C
+2605.26983 3872.17361 2604.89792 3878.34491 2604.89792 3878.34491 C
+2607.77962 3875.29994 2612.71276 3871.62340 2617.45257 3868.36980 C
+2620.29912 3872.39046 2622.91606 3876.32778 2625.31049 3880.13924 C
+2614.17175 3886.41685 2613.78397 3892.84271 2613.78397 3892.84271 C
+2616.76063 3889.69739 2621.92535 3885.87883 2626.80548 3882.54784 C
+2629.28750 3886.59543 2631.52545 3890.49307 2633.52756 3894.18491 C
+2623.49745 3899.71757 2623.14935 3905.44611 2623.14935 3905.44611 C
+2625.78189 3902.66447 2630.37572 3899.27962 2634.68438 3896.34576 C
+2636.16633 3899.14271 2637.51789 3901.81805 2638.73650 3904.33776 C
+2628.02608 3909.57534 2627.67430 3915.36907 2627.67430 3915.36907 C
+2630.36183 3912.52932 2635.31991 3908.99083 2639.59937 3906.13833 C
+2646.35518 3920.41106 2648.88454 3929.43572 2648.91827 3928.71572 C
+2649.11272 3921.48964 2647.60696 3912.75099 2644.36271 3903.04233 C
+2646.39912 3901.74463 2647.67017 3900.95461 2647.41959 3901.02746 C
+2646.22365 3901.38293 2645.09972 3901.74973 2644.04466 3902.12504 C
+2642.98791 3899.04548 2641.74831 3895.86699 2640.34233 3892.61395 C
+2643.36378 3890.67335 2645.40898 3889.42243 2645.07874 3889.51824 C
+2643.14494 3890.09310 2641.38321 3890.69490 2639.77597 3891.31313 C
+2637.90113 3887.08469 2635.72498 3882.72699 2633.26224 3878.28142 C
+2636.85090 3875.97317 2639.30542 3874.47449 2638.91877 3874.58674 C
+2636.53909 3875.29427 2634.38759 3876.03694 2632.43707 3876.80088 C
+2630.02054 3872.53247 2627.32961 3868.18384 2624.36854 3863.78872 C
+2627.96145 3861.47764 2630.41965 3859.97641 2630.03272 3860.08894 C
+2627.59039 3860.81518 2625.38901 3861.57827 2623.39824 3862.36346 C
+2620.60441 3858.28696 2617.57446 3854.17304 2614.30894 3850.04636 C
+2618.60995 3847.25339 2621.74592 3845.35502 2621.31250 3845.48117 C
+2618.17143 3846.41518 2615.42438 3847.41014 2613.01918 3848.43515 C
+2610.32287 3845.08687 2607.46583 3841.73320 2604.45685 3838.38633 C
+2608.55433 3835.73339 2611.48762 3833.95380 2611.06753 3834.07597 C
+2608.06961 3834.96718 2605.43055 3835.91452 2603.10501 3836.88992 C
+2599.26265 3832.68416 2595.17027 3828.49285 2590.82844 3824.34321 C
+2597.17068 3820.18904 2602.02614 3817.26567 2601.41159 3817.44425 C
+2596.40306 3818.93329 2592.15449 3820.54110 2588.55279 3822.19342 C
+2583.98702 3817.92983 2579.15169 3813.71584 2574.04961 3809.57924 C
+2580.80513 3805.12857 2586.13313 3801.92967 2585.49137 3802.11619 C
+2579.89465 3803.78013 2575.24980 3805.59231 2571.39269 3807.44929 C
+2567.50299 3804.37257 2563.45965 3801.34318 2559.26608 3798.37162 C
+2565.61143 3794.21490 2570.47115 3791.28926 2569.85660 3791.46784 C
+2564.61987 3793.02463 2560.21852 3794.71124 2556.51392 3796.44321 C
+2551.37726 3792.89140 2546.01666 3789.42973 2540.43383 3786.07805 C
+2545.80917 3782.59767 2549.65890 3780.26220 2549.10784 3780.42208 C
+2544.78472 3781.70731 2541.03307 3783.08126 2537.76926 3784.49575 C
+2532.95603 3781.67272 2527.97896 3778.93276 2522.83918 3776.28860 C
+2528.15896 3772.84620 2531.95398 3770.54277 2531.40661 3770.70180 C
+2527.03417 3772.00176 2523.24482 3773.39216 2519.95578 3774.82365 C
+2515.21880 3772.44794 2510.34435 3770.15443 2505.33411 3767.95191 C
+2510.53795 3764.58860 2514.22271 3762.34951 2513.68299 3762.50627 C
+2509.32161 3763.80312 2505.54076 3765.18954 2502.25739 3766.61735 C
+2499.06926 3765.25502 2495.82699 3763.93011 2492.53002 3762.64488 C
+2497.94504 3759.16394 2501.63348 3756.91011 2501.04643 3757.08076 C
+2496.53764 3758.42126 2492.56091 3759.84425 2489.04680 3761.30976 C
+2485.47288 3759.96217 2481.83575 3758.66192 2478.13597 3757.41043 C
+2483.76501 3753.78605 2487.64734 3751.41798 2487.04639 3751.59260 C
+2482.21474 3753.02891 2477.99310 3754.56019 2474.29814 3756.13710 C
+2470.67235 3754.95817 2466.98759 3753.82715 2463.24302 3752.74602 C
+2470.25480 3748.22022 2475.17178 3745.22882 2474.43732 3745.44227 C
+2468.20479 3747.29528 2462.82350 3749.28038 2458.17780 3751.32444 C
+2453.53124 3750.05735 2448.79512 3748.86794 2443.96942 3747.76016 C
+2450.23512 3743.73638 2454.47178 3741.14381 2453.78636 3741.34309 C
+2448.15704 3743.01666 2443.22476 3744.79852 2438.89909 3746.63367 C
+2434.26444 3745.63843 2429.54844 3744.71858 2424.75165 3743.87896 C
+2431.11033 3739.79282 2435.42948 3737.15206 2434.73811 3737.35304 C
+2428.80463 3739.11704 2423.64869 3741.00151 2419.15861 3742.94211 C
+2415.16658 3742.30346 2411.11984 3741.71981 2407.01811 3741.19398 C
+2413.44595 3737.06192 2417.82661 3734.38488 2417.13043 3734.58728 C
+2410.91065 3736.43631 2405.53928 3738.41745 2400.90009 3740.45698 C
+2395.71269 3739.87191 2390.43883 3739.37868 2385.07880 3738.98154 C
+@c
+F
+
+@rax %Note: Object
+2387.18381 3861.37020 2421.72567 3892.71061 @E
+/$fm 0 def
+ 0 O 0 @g
+0.9961 0.9961 0.9961  create_rgb_color set_solid_fill
+2387.96391 3891.59972 m
+2387.96391 3891.59972 2384.84409 3883.43991 2391.08400 3876.71981 c
+2397.32391 3869.99972 2415.32391 3858.95991 2421.08391 3861.83991 c
+2426.84391 3864.71991 2392.04409 3899.27962 2387.96391 3891.59972 C
+@c
+F
+
+@rax %Note: Object
+2369.08403 3851.52066 2380.95468 3884.90031 @E
+/$fm 0 def
+ 0 O 0 @g
+0.9961 0.9961 0.9961  create_rgb_color set_solid_fill
+2373.37483 3884.89946 m
+2374.83326 3884.96494 2382.58913 3881.12655 2380.64343 3869.03254 c
+2378.69773 3856.93880 2373.95565 3851.71030 2371.51559 3851.52151 c
+2369.07553 3851.33301 2366.85543 3884.96239 2373.37483 3884.89946 C
+@c
+F
+
+@rax %Note: Object
+2418.65235 3895.36243 2538.81043 4026.89395 @E
+/$fm 0 def
+ 0 O 0 @g
+0.9961 0.9961 0.9961  create_rgb_color set_solid_fill
+2508.44400 3905.27972 m
+2508.44400 3905.27972 2541.08409 3931.67962 2538.68400 3969.11962 c
+2536.28391 4006.55962 2492.60400 4029.11943 2485.40400 4026.71962 c
+2478.20400 4024.31981 2471.00372 4025.27962 2462.84391 4005.11962 c
+2454.68409 3984.95962 2452.28400 3969.59953 2440.76400 3953.27962 c
+2429.24400 3936.95972 2417.97713 3929.35408 2418.68409 3917.75981 c
+2419.88400 3898.07972 2477.96391 3885.59962 2508.44400 3905.27972 C
+@c
+F
+
+@rax %Note: Object
+2300.54542 3862.71865 2369.86696 3987.82772 @E
+/$fm 0 def
+ 0 O 0 @g
+0.9961 0.9961 0.9961  create_rgb_color set_solid_fill
+2361.56400 3880.55962 m
+2367.61512 3888.62816 2371.43197 3910.02633 2369.24391 3915.35972 c
+2365.40409 3924.71972 2325.56400 3934.55962 2309.00400 3981.35962 c
+2297.67959 4013.36362 2297.69348 3917.67165 2309.24409 3889.19962 c
+2321.03424 3860.13713 2339.96485 3851.76076 2361.56400 3880.55962 c
+@c
+F
+
+%%PageTrailer
+@rs
+@rs
+%%Trailer
+@EndSysCorelDict
+end
+%%DocumentSuppliedResources: procset wCorel20Dict 20.0 0
+%%EOF
